@@ -1,7 +1,5 @@
 # 📈 Stock Portfolio App
 
-![Demo](demo/stock-portfolio-app-demo.gif)
-
 A **full-stack stock portfolio web application** that allows users to register, authenticate, and manage a virtual stock portfolio by buying and selling stocks using **real-time market data from IEX Cloud**.
 
 Built to demonstrate **end-to-end MERN + Next.js development**, including authentication, API integration, and database-driven state management.
